@@ -1,6 +1,7 @@
 ![68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133](https://user-images.githubusercontent.com/103637134/196281825-c9f7ec85-c0bb-44a1-808d-06b011536237.gif)
 <h1 align="center">Hi 👋, I'm Harish Sonkusare</h1>
-<h3 align="center">A passionate Java Backend Developer from India</h3>
+<h3 align="center">An aspiring Java Backend Developer . Proficient in Java, JavaScript, and MySQL. Passionate
+about implementing and launching new projects. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harish7775&label=Profile%20views&color=0e75b6&style=flat" alt="harish7775" /> </p>
 
