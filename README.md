@@ -13,7 +13,7 @@ about implementing and launching new projects. </h3>
 
 - 👯 I’m looking to collaborate on [FirstPost.com](https://github.com/priyanshu1120/fast-bucket-2531-firstpost-)
 
-- 👨‍💻 All of my projects are available at [Harish7775.github.io](Harish7775.github.io)
+- 👨‍💻 All of my projects are available at [http://Harish7775.github.io/](http://Harish7775.github.io/)
 
 - 💬 Ask me about **HTML, CSS, JavaScripts, Java, DSA, SpringBoot, MySQL, Hibernate.**
 
