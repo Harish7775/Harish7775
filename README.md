@@ -19,7 +19,8 @@ about implementing and launching new projects. </h3>
 
 - 📫 How to reach me **harish77sonkusare@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12sIVpnxNXJItUpT7UThw6_3UK_L6W4yZ/view?usp=sharing](https://drive.google.com/file/d/12sIVpnxNXJItUpT7UThw6_3UK_L6W4yZ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PZJMnxZxkjrPuhCDAekLn4PEA3lRJx7Z/view?usp=sharing](https://drive.google.com/file/d/1PZJMnxZxkjrPuhCDAekLn4PEA3lRJx7Z/view?usp=sharing)
+
 
 - ⚡ Fun fact **The first computer virus was created in 1986.**
 
